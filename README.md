@@ -1,1 +1,3 @@
-# expenseManager
+# Expense Manager
+
+Expense Manager app
